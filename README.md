@@ -19,5 +19,5 @@
 <img src="assets/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif " width="850"/>
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-patil-35699927b/) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhay-patil-35699927b/)
+[![Soundcloud](https://img.shields.io/badge/Soundcloud-FF3300?logo=Soundcloud&logoColor=white)](https://soundcloud.com/abhay-patil-772348652)
