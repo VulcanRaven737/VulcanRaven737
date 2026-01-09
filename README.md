@@ -2,7 +2,7 @@
 
 
 <h1>👋 Hello there! I'm Abhay</h1>
-<h4>ML engineer passionate about solving real-world problems while aggressively optimizing for laziness :/</h4>
+<h4>ML undergrad, passionate about solving real-world problems while aggressively optimizing for laziness :/</h4>
 
 <h4>I also make beats in my free time</h4>
 
